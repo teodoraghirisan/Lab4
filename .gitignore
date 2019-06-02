@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Expenses
+/Expenses.sln.DotSettings.user
+/.vs
+/WebApiTests4/bin/Debug/netcoreapp2.2
+/WebApiTests4/obj
+/Lab4/bin/Debug/netcoreapp2.2
+/Lab4/obj
